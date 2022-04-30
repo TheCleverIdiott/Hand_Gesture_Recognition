@@ -11,6 +11,7 @@ import screen_brightness_control
 import numpy as np
 
 import cv2
+_______________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -44,5 +45,7 @@ TypeError: create_int(): incompatible function arguments. The following argument
 
 Invoked with: 0.5
 [ WARN:0@5.213] global D:\a\opencv-python\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (539) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback"
+  
+__________________________________________________________________________________________________________________________________________________________________
 
 
