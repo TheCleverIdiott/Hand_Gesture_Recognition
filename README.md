@@ -3,9 +3,13 @@
 *Libraries Rerquired:*
 
 import mediapipe as mp
+
 from math import hypot
-import screen_brightness_control as sbc
+
+import screen_brightness_control
+
 import numpy as np
+
 import cv2
 
 
