@@ -19,7 +19,7 @@ import cv2
 
 
 
-Issues:
+__Issues:__
 
 1) https://github.com/TheCleverIdiott/Hand_Gesture_Recognition/blob/main/Bare_Minimum_Module.py 
 showing the following error:
