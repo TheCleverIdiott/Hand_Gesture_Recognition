@@ -2,7 +2,7 @@
 
 *Libraries Rerquired:*
 
-import mediapipe as mp
+import mediapipe 
 
 from math import hypot
 
