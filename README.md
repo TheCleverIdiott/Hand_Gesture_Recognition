@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is a hand gesture recognition mini-project.</h1>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS (click to expand)-->
 <details>
   <summary>Table of Contents</summary>
   <ol>
