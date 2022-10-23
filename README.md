@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is a hand gesture recognition mini-project.</h1>
+<h1 align="center"> Hand Gesture Recognition .</h1>
 
 <!-- TABLE OF CONTENTS (click to expand)-->
 <details>
