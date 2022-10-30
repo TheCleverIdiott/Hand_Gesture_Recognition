@@ -1,5 +1,14 @@
 <h1 align="center"> Hand Gesture Recognition .</h1>
 
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/TheCleverIdiott/Hand_Gesture_Recognition">
+    <img src="https://github.com/TheCleverIdiott/Hand_Gesture_Recognition/blob/main/Gesture%20Recognition.png" alt="Logo">
+  </a>
+ </div>
+
 <!-- TABLE OF CONTENTS (click to expand)-->
 <details>
   <summary>Table of Contents</summary>
