@@ -8,10 +8,12 @@
     <img src="https://github.com/TheCleverIdiott/Hand_Gesture_Recognition/blob/main/Gesture%20Recognition.png" alt="Logo">
   </a>
  </div>
+ 
+ <br>
 
-<!-- TABLE OF CONTENTS (click to expand)-->
+<!-- TABLE OF CONTENTS-->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents (click to expand)</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
