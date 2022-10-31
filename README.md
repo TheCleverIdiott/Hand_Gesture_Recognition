@@ -23,7 +23,6 @@
         <li><a href="#installing-dependencies">Installing Dependencies</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
